@@ -1,0 +1,26 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macielgaleano/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "module": "index.js",
+  "bugs": {
+    "url": "https://github.com/macielgaleano/playwright/issues"
+  },
+  "homepage": "https://github.com/macielgaleano/playwright#readme",
+  "dependencies": {
+    "playwright": "^1.34.0"
+  }
+}
